@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "html.format.contentUnformatted": "",
+    "thunder-client.indentSize": 4,
+    "eslint.codeActionsOnSave.rules": null,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
